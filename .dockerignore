@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+*.log
+*.zip
+*.tar.gz
+node_modules/
+.git/
